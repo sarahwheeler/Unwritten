@@ -1,0 +1,20 @@
+MVP To-Do's:
+	- 3-column layout
+	- Books appearing
+	- Characters appearing when book is selected
+	- PDF generation
+
+Potential Books:
+	- Pride and Prejudice
+	- The Picture of Dorian Gray
+	- Adventures of Huckleberry Finn
+	- Frankenstein
+	- The Prince
+	- The Adventures of Sherlock Holmes
+	- Gulliver's Travels
+	- Emma
+	- Wuthering Heights
+	- The Scarlet Letter
+	- Little Women
+	- Shakespeare
+	- Moby Dick
