@@ -1,5 +1,4 @@
 MVP To-Do's:
-	- 3-column layout
 	- Books appearing
 	- Characters appearing when book is selected
 	- PDF generation
@@ -18,3 +17,7 @@ Potential Books:
 	- Little Women
 	- Shakespeare
 	- Moby Dick
+
+
+Done: 
+	- 3-column layout
