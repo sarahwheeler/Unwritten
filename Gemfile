@@ -33,7 +33,7 @@ gem 'spring',        group: :development
 
 gem "activeadmin", github: "gregbell/active_admin" # Until it's 1.0.0
 gem "devise"
-
+gem 'foundation-rails'
 gem "active_model_serializers"
 gem "grape"
 gem "grape-active_model_serializers"

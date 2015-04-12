@@ -21,3 +21,14 @@ Potential Books:
 
 Done: 
 	- 3-column layout
+
+
+
+Pronouns:
+
+Binary male: 		He/he 		Him/him 		His/his 			His/his 					Himself/himself
+Binary female: 	She/she 	Her/her 		Hers/hers 		Her/Her  					Herself/herself
+One: 						One/one 	One/one 		One's/one's 	That one's   			Oneself/oneself
+They singular:	They/they Them/them 	Their/their 	Theirs/theirs 		Themself/themself
+Spivak: 				E/e 			Em/em				Eir/eir 			Eirs/eirs					Emself/emself
+Ze: 						Ze				Hir/hir			Hir/hir 			Hirs/hirs					Hirself/hirself

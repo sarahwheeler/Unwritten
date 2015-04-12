@@ -1,0 +1,60 @@
+<head>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/css/foundation.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/css/normalize.css">
+<style>
+	.tabs.vertical .tab-title {
+		width: 275px;
+	}
+</style>
+</head>
+
+<nav class="top-bar" data-topbar role="navigation">
+  <ul class="title-area">
+    <li class="name">
+      <h1><a href="#">Unwritten</a></h1>
+    </li>
+     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>
+
+  <section class="top-bar-section">
+    <!-- Right Nav Section -->
+    <ul class="right">
+      <li><%= link_to 'About', about_path %></li>
+      <li><%= link_to 'Books', books_path %></li>
+    </ul>
+  </section>
+</nav>
+
+<br><br>
+<div id="body-container">
+
+  <div class="row">
+    <div class="small-4 large-4 columns">
+      <h5>Books</h5>
+
+      <ul class="tabs vertical" data-tab>
+			  <li class="tab-title"><a href="#">Pride and Prejudice</a></li>
+			  <li class="tab-title"><a href="#">Adventures of Huckleberry Finn</a></li>
+			  <li class="tab-title"><a href="#">The Picture of Dorian Gray</a></li>
+			  <li class="tab-title"><a href="#">Moby Dick</a></li>
+			</ul>
+    </div>
+
+    <div class="small-4 large-4 columns"><h5>Characters</h5>
+
+        <li><select>
+          <option value="female">Female (she/her)</option>
+          <option value="male">Male (he/his)</option>
+          <option value="zie">Zie (zie/zir)</option>
+          <option value="they">They (they/they)</option>
+        </select></li>
+
+    </div>
+
+    <div class="small-4 large-4 columns">
+      <button class="radius pdf">Download PDF</button>
+    </div>
+  </div>  
+</div>
+
