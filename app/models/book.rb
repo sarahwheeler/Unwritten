@@ -3,4 +3,5 @@ class Book < ActiveRecord::Base
 	validates :title, :author, :text, presence: true
 
 	has_many :characters
+
 end

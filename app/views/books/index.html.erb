@@ -34,10 +34,9 @@
       <h5>Books</h5>
 
       <ul class="tabs vertical" data-tab>
-			  <li class="tab-title"><a href="#">Pride and Prejudice</a></li>
-			  <li class="tab-title"><a href="#">Adventures of Huckleberry Finn</a></li>
-			  <li class="tab-title"><a href="#">The Picture of Dorian Gray</a></li>
-			  <li class="tab-title"><a href="#">Moby Dick</a></li>
+        <% @books.each do |book| %>
+			   <li class="tab-title"><%= chicago_cap(book.title) %></li>
+        <% end %>
 			</ul>
     </div>
 
