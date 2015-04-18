@@ -43,6 +43,13 @@ General character: man/woman/person, neutral occupations, etc.
 General relationship assumption: man/man, woman/woman, man/woman, neutral/man, neutral/woman, neutral/neutral
 
 Other Gendered Terms:
+	- References - 
+
+		http://genderqueeries.tumblr.com/titles
+		http://nonbinary.org/wiki/Gender_neutral_language
+
+  - UI note: whenever some chooses a non-binary pronoun, have the 'Neutral Preference List' pop up.
+
 	- Familial -
 			Masculine:				Feminine:				Neutral:
 
@@ -82,5 +89,5 @@ Other Gendered Terms:
 	- Relational -
 			Masculine:				Feminine:				Neutral:
 
-			boyfriend					girlfriend			lover/partner
-			fiance						fiancee					intended?
+			boyfriend					girlfriend			lover/partner/date/paramour
+			fiance						fiancee					intended/betrothed
