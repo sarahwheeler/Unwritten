@@ -22,7 +22,10 @@ Potential Books:
 Done: 
 	- 3-column layout
 
-
+Names:
+ - First name     	- Nickname (variations?)
+ - Middle name(s)	
+ - Last name
 
 Pronouns:
 
@@ -32,3 +35,52 @@ One: 						One/one 	One/one 		One's/one's 	That one's   			Oneself/oneself
 They singular:	They/they Them/them 	Their/their 	Theirs/theirs 		Themself/themself
 Spivak: 				E/e 			Em/em				Eir/eir 			Eirs/eirs					Emself/emself
 Ze: 						Ze				Hir/hir			Hir/hir 			Hirs/hirs					Hirself/hirself
+
+Ignore list:
+	I, me, you
+
+General character: man/woman/person, neutral occupations, etc.
+General relationship assumption: man/man, woman/woman, man/woman, neutral/man, neutral/woman, neutral/neutral
+
+Other Gendered Terms:
+	- Familial -
+			Masculine:				Feminine:				Neutral:
+
+			husband						wife						partner/spouses
+			husbands					wives						partners/spouses
+			father						mother					parent
+			fathers						mothers					parents
+			son								daughter				child
+			sons							daughters				children
+			brother 					sister 					sibling
+			brothers					sisters					siblings
+			uncle							aunt						parent's sibling?
+			uncles						aunt						parent's siblings?
+			nephew						niece						sibling's child?
+			nephews						nieces					sibling's children?
+			grandfather				grandmother			grandparent
+			grandfathers			grandmothers		grandparents
+			cousin						cousin					cousin
+
+	- Formal -
+			Masculine:				Feminine:				Neutral:
+
+			gentleman					lady						gent/gentlefolk
+			gentlemen					ladies					gents/gentlefolk
+			Sir 							Lady 						?
+			Mister						Mistress/Madam  ?
+			Mr.								Mrs./Ms./Miss   ?
+			King							Queen						Your Majesty?
+
+	- Age-specific -
+			Masculine:				Feminine:				Neutral:
+
+			boy 							girl 						child/youth/kid
+			boys							girls						children/youths/kids
+			teen/teenager			teens/teenager  teens/teenagers			
+
+	- Relational -
+			Masculine:				Feminine:				Neutral:
+
+			boyfriend					girlfriend			lover/partner
+			fiance						fiancee					intended?
